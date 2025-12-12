@@ -1,4 +1,4 @@
-package com.digitbingologicduelclub
+package com.digit.bingo.logic.duel.club
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
