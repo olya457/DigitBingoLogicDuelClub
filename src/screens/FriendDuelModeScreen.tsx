@@ -533,7 +533,7 @@ const styles = StyleSheet.create({
     borderRadius: 12,
     backgroundColor: '#13214A',
     borderWidth: 2,
-    borderColor: '#3557B7',
+    borderColor: '#dfbf1dff',
     alignItems: 'center',
     justifyContent: 'center',
   },
@@ -624,7 +624,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
-  keyOk: { backgroundColor: '#5B8CFF' },
+  keyOk: { backgroundColor: '#dfbf1dff' },
   keyTxt: { color: '#E8ECF1', fontSize: fs(18), fontWeight: '800' },
   keyOkTxt: { color: '#fff' },
   modalBack: {

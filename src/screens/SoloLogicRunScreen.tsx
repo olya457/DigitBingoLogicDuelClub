@@ -308,7 +308,7 @@ const styles = StyleSheet.create({
   subCap:{
     marginTop:6, width:SLOT, height:SUBH, borderRadius:999, alignItems:'center', justifyContent:'center'
   },
-  subCapBlue:{ backgroundColor:'#21408E' },
+  subCapBlue:{ backgroundColor:'#dfbf1dff' },
   subCapGreen:{ backgroundColor:'#2CC56A' },
   subCapTxt:{ color:'#DDE7FF', fontSize:12, fontWeight:'800' },
   subCapTxtOn:{ color:'#0F1115' },
@@ -354,7 +354,7 @@ const styles = StyleSheet.create({
     width:(W - SIDE*2 - 10*2)/3, height:BTN_H, borderRadius:12,
     backgroundColor:'rgba(0,0,0,0.35)', alignItems:'center', justifyContent:'center',
   },
-  keyOk:{ backgroundColor:'#5B8CFF' },
+  keyOk:{ backgroundColor:'#dfbf1dff' },
   keyTxt:{ color:'#E8ECF1', fontSize:18, fontWeight:'800' },
   keyOkTxt:{ color:'#fff' },
 
@@ -375,7 +375,7 @@ const styles = StyleSheet.create({
   toggleTxt:{ color:'#E8ECF1', fontWeight:'800' },
   toggleTxtActive:{ color:'#1A1F2B' },
 
-  startBtn:{ height:BTN_H, borderRadius:12, backgroundColor:'#5B8CFF', alignItems:'center', justifyContent:'center', paddingHorizontal:12 },
+  startBtn:{ height:BTN_H, borderRadius:12, backgroundColor:'#dfbf1dff', alignItems:'center', justifyContent:'center', paddingHorizontal:12 },
   startTxt:{ color:'#fff', fontSize:15, fontWeight:'900', letterSpacing:0.3 },
 
   pauseText:{ color:'#E8ECF1', fontSize:14, lineHeight:20 },

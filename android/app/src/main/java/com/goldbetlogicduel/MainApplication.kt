@@ -1,4 +1,4 @@
-package com.digit.bingo.logic.duel.club
+package com.goldbetlogicduel
 
 import android.app.Application
 import com.facebook.react.PackageList

@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.digit.bingo.logic.duel.club"
+    namespace "com.goldbetlogicduel"
     defaultConfig {
-        applicationId "com.digit.bingo.logic.duel.club"
+        applicationId "com.goldbetlogicduel"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

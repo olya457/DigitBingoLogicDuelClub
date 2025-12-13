@@ -30,7 +30,7 @@ const fs = (n: number) => (IS_SE ? n - 2 : IS_SMALL ? n - 1 : n);
 
 const PAGES = [
   {
-    title: 'Welcome to Digit Bingo Logic Duel Club',
+    title: 'Welcome to Gold – Bet Logic Duel',
     desc:
       'Every round, a secret four-digit code is created just for you. Your mission is to use logic, attention and sharp deduction to crack the code in as few steps as possible.',
     img: require('../assets/onboarding_1.png'),
@@ -207,7 +207,7 @@ const styles = StyleSheet.create({
 
   cta: {
     marginTop: 10,
-    backgroundColor: '#5B8CFF',
+    backgroundColor: '#dfbf1dff',
     borderRadius: 14,
     paddingVertical: IS_SE ? 10 : 12,
     alignItems: 'center',
