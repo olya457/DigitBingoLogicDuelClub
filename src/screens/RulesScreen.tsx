@@ -102,7 +102,7 @@ export default function RulesScreen({ navigation }: Props) {
           <Text style={[styles.p, { fontSize: PAR_FS, lineHeight: PAR_LH }]}>
             In Friend Duel Mode, your friend chooses a secret number
             independently—on their own device, on paper, or simply in their head.
-            You use Digit Bingo Logic Duel as your logic board. You enter each
+            You use Gold – Bet Logic Duel as your logic board. You enter each
             guess into the app. After every guess, your friend tells you which
             digits are correct. You then mark their feedback.
           </Text>
